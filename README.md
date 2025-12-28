@@ -1,5 +1,9 @@
 # Olist SQL Analytics Case Study
 
+<p align="center">
+  <img src="logo/logo.png" alt="Olist Dataset" width="400">
+</p>
+
 ## Overview
 
 This project presents an end-to-end SQL analytics workflow built on the **Brazilian E-Commerce Public Dataset (Olist)**. The objective was to validate raw transactional data, design an analytics-ready data model, and extract meaningful business insights using PostgreSQL.
