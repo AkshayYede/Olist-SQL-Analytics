@@ -1,7 +1,7 @@
 # Olist SQL Analytics Case Study
 
 <p align="center">
-  <img src="logo/logo.png" alt="Olist Dataset" width="400">
+  <img src="logo/logo.png" alt="Olist Dataset" width="700">
 </p>
 
 ## Overview
